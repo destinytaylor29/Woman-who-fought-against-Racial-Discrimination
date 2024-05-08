@@ -1,0 +1,12 @@
+body {
+  background: rosybrown;
+  text-align:center;
+}
+p {
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  color:pink;
+  text-decoration:underline;
+}
